@@ -1,3 +1,4 @@
-# Java Dojo
+# #movetogitlab
 
-The documentation is found on the [organisation page](https://java-dojo.github.io/).
+This repository is moved to https://git.sw4j.net/java-dojo/java-dojo.pages.sw4j.net with a mirror at
+https://gitlab.com/java-dojo/java-dojo.gitlab.io
